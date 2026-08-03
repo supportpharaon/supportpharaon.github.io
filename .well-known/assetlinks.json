@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.supportpharaon.pharaon",
-        "sha256_cert_fingerprints": ["9E:31:E2:4A:05:FD:C1:81:77:D4:00:35:A5:CB:A9:D6:CD:95:FE:46:29:B1:B6:3F:98:23:CF:D8:F9:59:C2:06"]
-      }
-    }]
